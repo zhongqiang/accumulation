@@ -1,0 +1,18 @@
+  126  autoscan
+  127  ls -l
+  130  mv configure.scan configure.in
+  131  ls -l
+  132  vi configure.in 
+  133  aclocal
+  134  ls -l
+  135  autoconf
+  136  ls -l
+  138  vi Makefile.am
+  140  automake --add-missing
+  141  ls -l
+  142  ./configure 
+  143  ls -l
+  144  make
+  145  ls -l
+  146  ./helloworld 
+  150  make dist
