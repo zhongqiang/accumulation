@@ -19,3 +19,6 @@ git push -u origin master
 
 
 git clean -n
+
+
+git clone https://github.com/zhongqiang/accumulation.git
