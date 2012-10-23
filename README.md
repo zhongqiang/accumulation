@@ -22,3 +22,4 @@ git clean -n
 
 
 git clone https://github.com/zhongqiang/accumulation.git
+git pull origin master
